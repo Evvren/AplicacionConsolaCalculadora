@@ -1,3 +1,6 @@
+Julio Guerrero 1114981
+Requerimientos, Criterios, Casos
+
 1. ¿Qué es un Coding Dojo? 
 
 -	Un coding dojo es un evento de aprendizaje donde los programadores se reúnen para practicar y mejorar sus habilidades de codificación. Lo hacen mediante ejercicios estructurados y otras actividades colaborativas.  (https://www.codewars.com) 
